@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  .table1{
+    width: 100%;
+    color: rgb(0, 0, 0);
+    border-collapse: collapse;
+    margin: 0px 0px 0px 0px;
+    background-color: #660000;
+}
+
+.table3{
+    border-collapse: collapse;
+    padding: 5px;
+}
+.table3 td{
+    padding: 5px;
+}
+.heading{
+    background-color: #660000;
+}
+
+  .table1 tbody{
+    width: 100%;
+    color: white;
+    text-align: center;
+
+  }
+  
+  .table1 td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+  }
+
+  .headtable{
+    padding: 10px;
+  }
